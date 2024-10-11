@@ -21,10 +21,10 @@
 
 <h1>💻 Latest Projects</h1>
 
-<a href="https://github.com/OR-X1/BamcoReport_Devops">
+<a href="https://github.com/OR-X1/3d-model-overview">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OR-X1&repo=qr-resto-frontend" />
 </a>
-<a href="https://github.com/amalmtahri/CodingZone">
+<a href="https://github.com/OR-X1/qr-resto-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OR-X1&repo=Ibegoo_app" />
 </a>
 
