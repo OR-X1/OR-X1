@@ -22,7 +22,7 @@
 <h1>💻 Latest Projects</h1>
 
 <a href="https://qr-resto-frontend-k04hha296-or-x1.vercel.app">
-  <img align="center" src="https://qr-resto-frontend-k04hha296-or-x1.vercel.app/assets/images/qr-code-menu-example.png" />
+  <img align="center" src="https://qr-resto-frontend-k04hha296-or-x1.vercel.app/assets/images/logo.svg" />
 </a>
 <a href="https://github.com/OR-X1/qr-resto-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OR-X1&repo=Ibegoo_app" />
